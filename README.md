@@ -65,6 +65,7 @@ Miscellaneous
 
 ## Team members
 
-* John Doe, Blockchain/Frontend Developer, Team Lead
-* Alex Max, Backend Developer, Tester
+* Nick Clark, Frontend Developer, Design Lead
+* John Scarfo, Backend Developer, Researcher, Bug Fixer
+* Thomas R. Evangalista, Backend Developer, Researcher, Bug Fixer
 
