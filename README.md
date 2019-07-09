@@ -1,5 +1,5 @@
-# FundMeOK
-An Ethereum-based crowdfunding platform
+# Libraccount
+A banking application for users of Facebook's Libra coin.
 
 ## Description
 ### What?
